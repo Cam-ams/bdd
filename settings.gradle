@@ -1,0 +1,2 @@
+rootProject.name = 'tp-article-api'
+include 'app', 'core-domain', 'adapter-jpa', 'adapter-mongo'
