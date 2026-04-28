@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="tp-article-api.adapter-jpa" options="-parameters" />
+      <module name="tp-article-api.adapter-jpa.main" options="-parameters" />
+      <module name="tp-article-api.adapter-jpa.test" options="-parameters" />
+      <module name="tp-article-api.adapter-mongo" options="-parameters" />
+      <module name="tp-article-api.adapter-mongo.main" options="-parameters" />
+      <module name="tp-article-api.adapter-mongo.test" options="-parameters" />
+      <module name="tp-article-api.app" options="-parameters" />
+      <module name="tp-article-api.app.main" options="-parameters" />
+      <module name="tp-article-api.app.test" options="-parameters" />
+      <module name="tp-article-api.core-domain" options="-parameters" />
+      <module name="tp-article-api.core-domain.main" options="-parameters" />
+      <module name="tp-article-api.core-domain.test" options="-parameters" />
+    </option>
+  </component>
+</project>

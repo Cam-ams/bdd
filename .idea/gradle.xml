@@ -5,7 +5,16 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="ms-17" />
+        <option name="gradleJvm" value="ms-17 (2)" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/adapter-jpa" />
+            <option value="$PROJECT_DIR$/adapter-mongo" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/core-domain" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>
